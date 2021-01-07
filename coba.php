@@ -1,3 +1,4 @@
+
 <?php 
    $nama = ["Bunyanuddin","Sabrina","Eman Sulaiman"];
 
@@ -10,6 +11,7 @@
    <title>Document</title>
 </head>
 <body>
-   
+   <p>Eman Sulaiman</p>
+   <p>Bunyanuddin</p>
 </body>
 </html>
